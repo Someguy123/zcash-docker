@@ -1,0 +1,8 @@
+blocks
+chainstate
+database
+wallet.dat
+zcashd.pid
+debug.log
+db.log
+.lock
